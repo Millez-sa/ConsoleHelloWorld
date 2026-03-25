@@ -1,0 +1,11 @@
+# NetBeans specific folders
+/build/
+/nbproject/private/
+/dist/
+
+# Compiled Java files
+*.class
+
+# OS generated files
+.DS_Store
+Thumbs.db
