@@ -7,7 +7,7 @@ package consolehelloworld;
 
 /**
  *
- * @author Faranani
+ * @author Faranani Matsa
  */
 public class ConsoleHelloWorld {
 
